@@ -5,9 +5,8 @@ import static org.junit.Assert.assertEquals;
 import org.junit.Test;
 
 /**
- * A test-case to test the AccountService class. 
- * We use the custom mock AccountManager that we 
- * implemented.
+ * 用于测试 AccountService 类的测试用例。
+ * 我们使用了自定义的 mock AccountManager，该类也是我们自己实现的。
  */
 public class TestAccountService {
 	@Test

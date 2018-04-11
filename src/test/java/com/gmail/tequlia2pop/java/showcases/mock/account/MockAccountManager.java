@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * A mock implementation of the AccountManager interface.
+ * AccountManager 接口的 Mock 实现.
  */
 public class MockAccountManager implements AccountManager {
 	/**

@@ -1,4 +1,4 @@
-package com.gmail.tequlia2pop.junit;
+package com.gmail.tequlia2pop.java.showcases.hamcrest;
 
 import static org.hamcrest.CoreMatchers.everyItem;
 import static org.hamcrest.CoreMatchers.hasItems;
